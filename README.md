@@ -23,12 +23,12 @@ See [LICENSE.txt](./LICENSE.txt) for license information.
 
 ## Requirements
 
-The present notebook was tested on a computer with
+The present notebooks were tested on a computer with
 
     12 recent cpu cores,
     16 Gb of RAM,
 
-the whole computation during about less than an hour. About 9 Gb of hard drive disk space are also used to store the model's trajectories data.
+In both cases, 9 Gb of hard drive disk space are also used to store the model's trajectories data.
 
 ## Installation
 
