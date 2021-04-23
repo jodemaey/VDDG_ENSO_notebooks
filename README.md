@@ -1,5 +1,5 @@
 
-# The VDDG model forced the Jin-Timmermann ENSO model 
+# The VDDG model forced by the Jin-Timmermann ENSO model 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
