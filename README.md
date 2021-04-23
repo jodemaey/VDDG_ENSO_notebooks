@@ -11,7 +11,7 @@ These Jupyter notebooks come as a supplementary material to the article :
 
 and detail the computations performed to obtain the results therein.
 
-These notebooks contains the model VDDG forced by the Jin-Timmermann for ENSO variability. The VDDG model is obtained through [qgs](https://github.com/Climdyn/qgs) configured to run the coupled ocean-atmosphere [MAOOAM](https://github.com/Climdyn/MAOOAM) model.
+These notebooks contains the model VDDG forced by the Jin-Timmermann model for ENSO variability. The VDDG model is obtained through [qgs](https://github.com/Climdyn/qgs) configured to run the coupled ocean-atmosphere [MAOOAM](https://github.com/Climdyn/MAOOAM) model.
 
 More details are available inside the notebooks:
 
