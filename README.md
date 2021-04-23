@@ -13,7 +13,10 @@ and detail the computations performed to obtain the results therein.
 
 These notebooks contains the model VDDG forced by the Jin-Timmermann for ENSO variability. The VDDG model is obtained through [qgs](https://github.com/Climdyn/qgs) configured to run the coupled ocean-atmosphere [MAOOAM](https://github.com/Climdyn/MAOOAM) model.
 
-More details are available inside the notebooks.
+More details are available inside the notebooks:
+
+* [vddg_enso.ipynb](./vddg_enso.ipynb): contains the forced model and integrate it to get several trajectories.
+* [vddg_enso_lyapunov.ipynb](./vddg_enso_lyapunov.ipynb): in this notebook the forced model is integrated to get several trajectories, and their first Lyapunov exponent is computed.
 
 ## About
 
