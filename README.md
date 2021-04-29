@@ -20,7 +20,7 @@ More details are available inside the notebooks:
 
 ## About
 
-(c) 2021 Jonathan Demaeyer
+Copyright (c) 2021 Jonathan Demaeyer
 
 See [LICENSE.txt](./LICENSE.txt) for license information.
 
@@ -31,15 +31,15 @@ The present notebooks were tested on a computer with
     12 recent cpu cores,
     16 Gb of RAM,
 
-In both cases, 9 Gb of hard drive disk space are also used to store the model's trajectories data.
+In both cases, 9 Gb of RAM were used to store the model's trajectories data.
 
 ## Installation
 
-To install this notebook, you must first [install the qgs model](https://qgs.readthedocs.io/en/latest/files/general_information.html#installation) and test that it works properly on your machine. Follow the instructions in the model documentation. Then you must move the present notebook in the notebooks directory and run it with jupyter-notebook. In the qgs model main folder, do:
+To install these notebooks, you must first [install the qgs model](https://qgs.readthedocs.io/en/latest/files/general_information.html#installation) and test that it works properly on your machine. Follow the instructions in the model documentation. Then you must move the notebooks in the notebooks directory and run it with jupyter-notebook. In the qgs model main folder, do:
 
     conda activate qgs
     cd notebooks
     jupyter-notebook
 
-It will open a page in a web browser where you can open and then run the present notebook.
+It will open a page in a web browser where you can open and then run the notebooks.
 
