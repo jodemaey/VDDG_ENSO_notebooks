@@ -1,13 +1,14 @@
 
 # The VDDG model forced by the Jin-Timmermann ENSO model 
 
+[![DOI](https://zenodo.org/badge/360905794.svg)](https://zenodo.org/badge/latestdoi/360905794)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## General Information
 
 These Jupyter notebooks come as a supplementary material to the article :
 
-* Vannitsem, S., Demaeyer, J. and Ghil, M. (2021). Extratropical low-frequency variability with ENSO forcing: A reduced-order coupled model study. *Submitted to JAMES.* [arxiv.org/abs/2103.00517](https://arxiv.org/abs/2103.00517).
+* Vannitsem, S., Demaeyer, J., and Ghil, M. (2021). Extratropical low‐frequency variability with ENSO forcing: A reduced‐order coupled model study. *Journal of Advances in Modeling Earth Systems*, e2021MS002530. [https://doi.org/10.1029/2021MS002530](https://doi.org/10.1029/2021MS002530).
 
 and detail the computations performed to obtain the results therein.
 
@@ -30,8 +31,6 @@ The present notebooks were tested on a computer with
 
     12 recent cpu cores,
     16 Gb of RAM,
-
-In both cases, 9 Gb of RAM were used to store the model's trajectories data.
 
 ## Installation
 
